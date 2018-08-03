@@ -2,7 +2,7 @@
 
 A Gathering Of Boston Tech  
 September 26th, 2018, 7:00 PM - 10:00PM  
-Facebook Office, Cambridge MA
+Facebook Boston, 1 Broadway, Cambridge, MA 012142 (8th Floor)
 
 **Registration not open yet**
 
