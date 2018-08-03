@@ -16,8 +16,12 @@ INFORMATION SUPERHIGHWAY is a party gathering hackers, activists, artists, desig
 
 With Featured Guests and Organizations:
 
-* TBA
-* TBA
+* **Calvin Metcalf**  
+Web App Dev, Applied Geographics  
+Node.js, Leaflet, browserify/webpack contributor
+* **Jory Burson**  
+COO, Bocoup  
+jQuery contributor
 * TBA
 * TBA
 * TBA
