@@ -24,4 +24,8 @@ jQuery contributor
 * TBA
 * TBA
 
+## Sponsored by
+
+- Facebook
+
 ---
