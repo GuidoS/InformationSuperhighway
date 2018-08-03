@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# INFORMATION SUPERHIGHWAY 2.1.0: Free or Open or Beer
 
-You can use the [editor on GitHub](https://github.com/GuidoS/InformationSuperhighway/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Gathering Of Boston Tech  
+September 26th, 2018, 7:00 PM - 10:00PM  
+Facebook Office, Cambridge MA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Registration not open yet**
 
-### Markdown
+Boston is full of cool Internet people. Why aren't they meeting each other?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+INFORMATION SUPERHIGHWAY is a party gathering hackers, activists, artists, designers, nonprofits, startups, academics and general geekery to hang out and connect with one another.
 
-```markdown
-Syntax highlighted code block
+- No agenda, no "networking," no presentations. Just beverages, food, ideas and cool people.
+- Best of all the price is free, just like the comic book in your cherished issues of the Boston Pheonix.
+- This time: come out and get out from behind your keyboard and meet some free and open source committers, contributors, and users who are shaping the future of technology. Share stories about bugs, people, and communities that make you tick. We'll bring beer, soda, and food. You bring the conversation.
 
-# Header 1
-## Header 2
-### Header 3
+With Featured Guests and Organizations:
 
-- Bulleted
-- List
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuidoS/InformationSuperhighway/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
