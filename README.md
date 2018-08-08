@@ -19,7 +19,7 @@ With Featured Guests and Organizations:
 * **Calvin Metcalf** - Web App Dev, Applied Geographics  
 Node.js, Leaflet, browserify/webpack contributor
 * **Jory Burson** - COO, Bocoup  
-jQuery contributor
+JS Foundation, Ecma TC39, W3C, Web Platform Tests contributor
 * TBA
 * TBA
 * TBA
