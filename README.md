@@ -20,7 +20,8 @@ With Featured Guests and Organizations:
 Node.js, Leaflet, browserify/webpack contributor
 * **Jory Burson** - COO, Bocoup  
 JS Foundation, Ecma TC39, W3C, Web Platform Tests contributor
-* TBA
+* **Matt Zagaja** - Lead Web Developer Metropolitan Area Planning Council
+Code for Boston Core Team, Cambridge Open Data Review Board Member
 * TBA
 * TBA
 
