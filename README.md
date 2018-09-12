@@ -22,7 +22,7 @@ Node.js, Leaflet, browserify/webpack contributor
 JS Foundation, Ecma TC39, W3C, Web Platform Tests contributor
 * **Matt Zagaja** - Lead Web Developer Metropolitan Area Planning Council
 Code for Boston Core Team, Cambridge Open Data Review Board Member
-* TBA
+* **Guido Stein** - OSGEO, FOSS4G, AvidGeo, This Very Event
 * TBA
 
 **Sponsored by** Facebook
