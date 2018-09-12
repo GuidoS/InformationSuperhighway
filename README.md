@@ -4,7 +4,9 @@ A Gathering Of Boston Tech
 September 26th, 2018, 7:00 PM - 10:00PM  
 Facebook Boston, 1 Broadway, Cambridge, MA 012142 (8th Floor)
 
-**[>>>>REGISTER HERE<<<<](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**
+**=======================**  
+**[>>>>REGISTER HERE<<<<](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**  
+**=======================**
 
 Boston is full of cool Internet people. Why aren't they meeting each other?
 
@@ -22,7 +24,7 @@ Node.js, Leaflet, browserify/webpack contributor
 JS Foundation, Ecma TC39, W3C, Web Platform Tests contributor
 * **Matt Zagaja** - Lead Web Developer Metropolitan Area Planning Council
 Code for Boston Core Team, Cambridge Open Data Review Board Member
-* **Guido Stein** - OSGEO, FOSS4G, AvidGeo, This Very Event
+* **Guido Stein** - OSGeo.US, Technocation, This Very Event
 * TBA
 
 **Sponsored by** Facebook
