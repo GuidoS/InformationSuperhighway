@@ -31,10 +31,13 @@ Lead Web Developer Metropolitan Area Planning Council
 Code for Boston Core Team, Cambridge Open Data Review Board Member
 
 **Guido Stein**  
-Geospatial Data Alchemist  
+Geospatial Data Alchemist, Applied Geographics
 OSGeo.US, Technocation, This Very Event
 
-**TBA**
+**Ginny Hamilton**  
+Community Manager, Red Hat  
+Opensource.com contributor
+
 
 **Hosted by**  
 [Facebook](https://www.facebook.com/fbboston/)
