@@ -18,15 +18,25 @@ INFORMATION SUPERHIGHWAY is a party gathering hackers, activists, artists, desig
 
 With Featured Guests and Organizations:
 
-* **Calvin Metcalf** - Web App Dev, Applied Geographics  
-Node.js, Leaflet, browserify/webpack contributor
-* **Jory Burson** - COO, Bocoup  
-JS Foundation, Ecma TC39, W3C, Web Platform Tests contributor
-* **Matt Zagaja** - Lead Web Developer Metropolitan Area Planning Council
-Code for Boston Core Team, Cambridge Open Data Review Board Member
-* **Guido Stein** - OSGeo.US, Technocation, This Very Event
-* TBA
+**Calvin Metcalf**  
+Web App Dev, Applied Geographics  
+Node.js, Leaflet, browserify/webpack contributor  
 
-**Sponsored by** Facebook
+**Jory Burson**  
+COO, Bocoup  
+JS Foundation, Ecma TC39, W3C, Web Platform Tests contributor
+
+**Matt Zagaja**  
+Lead Web Developer Metropolitan Area Planning Council  
+Code for Boston Core Team, Cambridge Open Data Review Board Member
+
+**Guido Stein**  
+Geospatial Data Alchemist  
+OSGeo.US, Technocation, This Very Event
+
+**TBA**
+
+**Hosted by**  
+[Facebook](https://www.facebook.com/fbboston/)
 
 ---
