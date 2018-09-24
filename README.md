@@ -1,11 +1,12 @@
-# INFORMATION SUPERHIGHWAY 2.1.0: Free or Open or Beer
+# INFORMATION SUPERHIGHWAY 2.1.0
+## Free or Open or Beer
 
 A Gathering Of Boston Tech  
 September 26th, 2018, 7:00 PM - 10:00PM  
 Facebook Boston, 1 Broadway, Cambridge, MA 012142 (8th Floor)
 
 **=======================**  
-**[>>>>REGISTER HERE<<<<](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**  
+**[> > > >REGISTER HERE < < < <](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**  
 **=======================**
 
 Boston is full of cool Internet people. Why aren't they meeting each other?
