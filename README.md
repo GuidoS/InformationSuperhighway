@@ -6,7 +6,7 @@ September 26th, 2018, 7:00 PM - 10:00PM
 Facebook Boston, 1 Broadway, Cambridge, MA 012142 (8th Floor)
 
 **=======================**  
-**[> > > >REGISTER HERE < < < <](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**  
+**[> > > > REGISTER HERE < < < <](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**  
 **=======================**
 
 Boston is full of cool Internet people. Why aren't they meeting each other?
@@ -35,10 +35,7 @@ Code for Boston Core Team, Cambridge Open Data Review Board Member
 Geospatial Data Alchemist, Applied Geographics  
 OSGeo.US, Technocation, This Very Event
 
-**Ginny Hamilton**  
-Community Manager, Red Hat  
-Opensource.com contributor
-
+**You**
 
 **Hosted by**  
 [Facebook](https://www.facebook.com/fbboston/)
