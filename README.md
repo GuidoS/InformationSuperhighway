@@ -1,3 +1,29 @@
+# INFORMATION SUPERHIGHWAY 2.2.0
+## TBD
+
+**Description:** TBD
+**Date:** November TBD
+**Location:** TBD
+
+With Featured Guests and Organizations:
+
+**TBD**  
+
+**TBD**  
+
+**TBD**  
+
+**TBD**  
+
+**Hosted by**  
+TBD
+
+**=======================**  
+REGISTION OPENS SOON  
+**=======================**
+
+Details TBD
+
 # INFORMATION SUPERHIGHWAY 2.1.0
 ## Free or Open or Beer
 
@@ -6,7 +32,7 @@ September 26th, 2018, 7:00 PM - 10:00PM
 Facebook Boston, 1 Broadway, Cambridge, MA 012142 (8th Floor)
 
 **=======================**  
-**[> > > > REGISTER HERE < < < <](https://www.paperlesspost.com/flyer/go/1ZeDv86fVWRq5BTBV9aL)**  
+**> > > > REGISTRATION ClOSED < < < <**  
 **=======================**
 
 Boston is full of cool Internet people. Why aren't they meeting each other?
