@@ -25,7 +25,7 @@ With Featured Guests and Organizations:
 **KADE CROCKFORD**  
 Director, Technology for Liberty Program, [ACLU Massachussetts](https://www.aclum.org)  
 Co-Host, [Humorless Queers](https://www.humorlessqueers.com)  
-([@onekade](https://twitter.com/onekade))
+[@onekade](https://twitter.com/onekade)
 
 **TBD**  
 
