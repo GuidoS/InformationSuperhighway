@@ -17,7 +17,7 @@ Just beverages, food, ideas and cool people. Best of all the price is free, just
 **Location:** TBD  
 **Registration:** TBD
 
-This time: come out and get out from behind your keyboard and meet some free and open source committers, contributors, and users who are shaping the future of technology. Share stories about bugs, people, and communities that make you tick. We'll bring beer, soda, and food. You bring the conversation.
+It's not just your imagination; Your data, rights, and online freedom are in peril. Join us to chat about what this means and what people are doing about it. Our Featured guests are looking out for the community and will be happy to talk about what they see is going on. We will bring the food and drinks, you bring the conversation.
 
 
 With Featured Guests and Organizations:
