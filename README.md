@@ -13,8 +13,8 @@ Just beverages, food, ideas and cool people. Best of all the price is free, just
 ## v2.2.0 - Hide Yo Bits, Hold Yo Rights
 
 **Theme:** Privacy, data, and your rights on the internet  
-**Date:** November TBD  
-**Location:** TBD  
+**Date:** Tuesday, November 27th  
+**Location:** (WeWork Boston, 200 Portland St., Boston)[https://www.wework.com/buildings/200-portland-st--boston--MA?utm_campaign=Organic&utm_medium=Listings&utm_source=Google]  
 **Registration:** TBD
 
 It's not just your imagination; Your data, rights, and online freedom are in peril. Join us to chat about what this means and what people are doing about it. Our Featured guests are looking out for the community and will be happy to talk about what they see is going on. We will bring the food and drinks, you bring the conversation.
@@ -22,10 +22,10 @@ It's not just your imagination; Your data, rights, and online freedom are in per
 
 With Featured Guests and Organizations:
 
-**KADE CROCKFORD**  
-Director, Technology for Liberty Program, [ACLU Massachussetts](https://www.aclum.org)  
-Co-Host, [Humorless Queers](https://www.humorlessqueers.com)  
-[@onekade](https://twitter.com/onekade)
+**Saul Tannenbaum**  
+Technology Activist  
+Co-Founder [Upgrade Cambridge](https://upgradecambridge.org)  
+[@stannenb](https://twitter.com/stannenb)
 
 **TBD**  
 
