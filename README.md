@@ -14,7 +14,7 @@ Just beverages, food, ideas and cool people. Best of all the price is free, just
 
 **Theme:** Privacy, data, and your rights on the internet  
 **Date:** Tuesday, November 27th  
-**Location:** (WeWork Boston, 200 Portland St., Boston)[https://www.wework.com/buildings/200-portland-st--boston--MA?utm_campaign=Organic&utm_medium=Listings&utm_source=Google]  
+**Location:** [WeWork Boston, 200 Portland St., Boston](https://www.wework.com/buildings/200-portland-st--boston--MA?utm_campaign=Organic&utm_medium=Listings&utm_source=Google)  
 **Registration:** TBD
 
 It's not just your imagination; Your data, rights, and online freedom are in peril. Join us to chat about what this means and what people are doing about it. Our Featured guests are looking out for the community and will be happy to talk about what they see is going on. We will bring the food and drinks, you bring the conversation.
@@ -34,7 +34,8 @@ Co-Founder [Upgrade Cambridge](https://upgradecambridge.org)
 **TBD**  
 
 **Hosted by**  
-TBD
+[WeWork](https://www.wework.com/)  
+WeWork is a global network of workspaces where companies grow together. Teams of any size can find refreshingly designed collaborative space, private offices, and meeting rooms that energize their employees and their guests. But WeWork is so much more than four walls—providing community, amenities, events, and technology to evolve space into experience.
 
 ## v2.1.0 - Free or Open or Beer
 
