@@ -28,9 +28,7 @@ Co-Founder [Upgrade Cambridge](https://upgradecambridge.org)
 
 **Nasser Eledroos** [@NasserEledroos](https://twitter.com/NasserEledroos)  
 [Technology Fellow, ACLU of Massachusetts](https://www.aclum.org/en/biographies/nasser-eledroos)  
-His work has focused around using data science for criminal justice and privacy advocacy and reform, including:
-- [Research around Boston Police surveilling activists](https://www.aclum.org/en/social-media-monitoring-boston-free-speech-crosshairs)
-- [Supporting the advocacy around the Massachusetts drug lab scandal](http://www.wbur.org/news/2018/10/11/farak-cases-dismissed-by-sjc)
+His work has focused around using data science for criminal justice and privacy advocacy and reform, including [research around Boston Police surveilling activists](https://www.aclum.org/en/social-media-monitoring-boston-free-speech-crosshairs) and [supporting the advocacy around the Massachusetts drug lab scandal](http://www.wbur.org/news/2018/10/11/farak-cases-dismissed-by-sjc)
 
 **TBD**  
 
