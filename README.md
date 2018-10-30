@@ -34,11 +34,12 @@ His work has focused around using data science for criminal justice and privacy 
 [Technology and Civil Liberties Policy Counsel, ACLU of Massachusetts](https://www.aclum.org/en/biographies/emiliano-falcon)  
 His work focuses information privacy issues, artificial intelligence, and the societal and legal effects of all the new technologies. He is very interested in the role of regulatory agencies, the continuum between self-regulation and a pure command and control regulation, and what are the different options available now or that we can think of for the future.
 
-**TBD**  
-
-**Hosted by**  
-[WeWork](https://www.wework.com/)  
+### Hosted by
+**[WeWork](https://www.wework.com/)**  
 WeWork is a global network of workspaces where companies grow together. Teams of any size can find refreshingly designed collaborative space, private offices, and meeting rooms that energize their employees and their guests. But WeWork is so much more than four walls—providing community, amenities, events, and technology to evolve space into experience.
+
+**[Technocation](https://technocation.github.io/2018-technocation)**  
+Supporting education for IT professionals. Home of [OSGeo US](http://osgeo.us/) and other fun stuff is in the works. ;)
 
 ## v2.1.0 - Free or Open or Beer
 
