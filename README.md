@@ -30,7 +30,9 @@ Co-Founder [Upgrade Cambridge](https://upgradecambridge.org)
 [Technology Fellow, ACLU of Massachusetts](https://www.aclum.org/en/biographies/nasser-eledroos)  
 His work has focused around using data science for criminal justice and privacy advocacy and reform, including [research around Boston Police surveilling activists](https://www.aclum.org/en/social-media-monitoring-boston-free-speech-crosshairs) and [supporting the advocacy around the Massachusetts drug lab scandal](http://www.wbur.org/news/2018/10/11/farak-cases-dismissed-by-sjc)
 
-**TBD**  
+**Emiliano Falcon**  
+[Technology and Civil Liberties Policy Counsel, ACLU of Massachusetts](https://www.aclum.org/en/biographies/emiliano-falcon)  
+His work focuses information privacy issues, artificial intelligence, and the societal and legal effects of all the new technologies. He is very interested in the role of regulatory agencies, the continuum between self-regulation and a pure command and control regulation, and what are the different options available now or that we can think of for the future.
 
 **TBD**  
 
