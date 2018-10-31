@@ -23,8 +23,8 @@ It's not just your imagination; Your data, rights, and online freedom are in per
 With Featured Guests and Organizations:
 
 **Saul Tannenbaum** [@stannenb](https://twitter.com/stannenb)  
-Technology Activist  
 Co-Founder [Upgrade Cambridge](https://upgradecambridge.org)  
+A Technology activist focused on the public interest. A long time municipal broadband advocate, he is a co-founder of Upgrade Cambridge, a group that seeks digital equity while supporting net neutrality, protecting internet internet privacy and investing in Cambridge, not Comcast.
 
 **Nasser Eledroos** [@NasserEledroos](https://twitter.com/NasserEledroos)  
 [Technology Fellow, ACLU of Massachusetts](https://www.aclum.org/en/biographies/nasser-eledroos)  
